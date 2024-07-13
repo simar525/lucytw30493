@@ -1,8 +1,11 @@
 {
+  "redirects": [{"source": "/hr.lucy.tw",       "destination": "/https:www.886.house",       "permanent": true     }
+],
   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "https://www.886.house/$1"
- }
+    }
   ]
 }
+    
